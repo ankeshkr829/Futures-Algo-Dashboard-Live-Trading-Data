@@ -1,0 +1,7 @@
+rag-project/
+│
+├── app.py                # Streamlit UI
+├── rag_pipeline.py      # Core logic
+├── data/                # PDFs
+├── requirements.txt
+
